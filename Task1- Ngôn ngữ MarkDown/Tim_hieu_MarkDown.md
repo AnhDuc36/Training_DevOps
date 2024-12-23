@@ -23,8 +23,11 @@ nó cung cấp một cách dễ dàng để tạo ra tài liệu có nội dung 
 - Heading là một phần quan trọng trong Markdown, nó giúp phân chia nội dung
 - Dùng `#` để tạo ra heading
 - Ví dụ: `# Heading 1`
+![Heading 1](image.png)
 - Ví dụ: `## Heading 2`
+![Heading 2](image.png)
 - Ví dụ: `### Heading 3`
-(![Heading 1](image.png))
+![Heading 3](image.png)
+
 ### 2.2 Dùng cho Text ###
 
