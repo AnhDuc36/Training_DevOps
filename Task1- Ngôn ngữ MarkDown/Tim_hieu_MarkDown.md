@@ -34,12 +34,16 @@ nó cung cấp một cách dễ dàng để tạo ra tài liệu có nội dung 
 Sử dụng ** ở đầu (hoặc đầu và cuối câu) nếu muốn bôi đậm câu đó.
 
 ** Tạo chữ Bold **     
-![alt text](image-3.png)
+![alt text](image-3.png)  
 Hiển thị: ** DevOps Engineer **
 
 ** Tạo chữ Italic **
 Sử dụng _ ở đầu hoặc * (hoặc đầu và cuối câu) nếu muốn in nghiêng câu đó.  
 ![alt text](image-4.png)  
 Hiển thị: _Devops engineer_
+
+## Tài liệu tham khảo ##
+[Viblo](https://viblo.asia/helps/cach-su-dung-markdown-bxjvZYnwkJZ)
+
 
 
