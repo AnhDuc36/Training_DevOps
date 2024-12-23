@@ -19,5 +19,12 @@ Markdown được sử dụng rộng rãi trong cộng đồng lập trình và 
 nó cung cấp một cách dễ dàng để tạo ra tài liệu có nội dung và hình ảnh.
 
 ## II . Cách dùng Markdown ##
-
+### 2.1 Dùng cho Heading ###
+- Heading là một phần quan trọng trong Markdown, nó giúp phân chia nội dung
+- Dùng `#` để tạo ra heading
+- Ví dụ: `# Heading 1`
+- Ví dụ: `## Heading 2`
+- Ví dụ: `### Heading 3`
+(![Heading 1](image.png))
+### 2.2 Dùng cho Text ###
 
