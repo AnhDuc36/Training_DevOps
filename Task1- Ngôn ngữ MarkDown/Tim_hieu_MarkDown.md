@@ -7,6 +7,7 @@
 - [II.Cách dùng Markdown ](##II.Cách-dùng-Markdown)
     - [2.1 Dùng cho Heading](###2.1-Dùng-cho-Heading)
     - [2.2 Dùng cho Text](###2.2-Dùng-cho-Text)
+- [Tài liệu tham khảo](##Tài-liệu-tham-khảo)
 
 ## I . Giới thiệu Markdown ##
 ### 1.1 Markdown là gì ? ###
