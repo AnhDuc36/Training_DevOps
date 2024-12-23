@@ -5,7 +5,8 @@
     - [1.1 Markdown là gì ?](###1.1-markdown-là-gì-?)
     - [1.2 Tại sao nên dùng markdown ?](###1.2-tại-sao-nên-dùng-markdown-?)
 - [II.Cách dùng Markdown ](##II.Cách-dùng-Markdown)
-
+    - [2.1 Dùng cho Heading](###2.1-Dùng-cho-Heading)
+    - [2.2 Dùng cho Text](###2.2-Dùng-cho-Text)
 
 ## I . Giới thiệu Markdown ##
 ### 1.1 Markdown là gì ? ###
@@ -30,4 +31,15 @@ nó cung cấp một cách dễ dàng để tạo ra tài liệu có nội dung 
 ![Heading 3](image-2.png)
 
 ### 2.2 Dùng cho Text ###
+Sử dụng ** ở đầu (hoặc đầu và cuối câu) nếu muốn bôi đậm câu đó.
+
+** Tạo chữ Bold **  
+![alt text](image-3.png)
+Hiển thị: ** DevOps Engineer **
+
+** Tạo chữ Italic **
+Sử dụng _ ở đầu hoặc * (hoặc đầu và cuối câu) nếu muốn in nghiêng câu đó.
+![alt text](image-4.png)
+Hiển thị: _Devops engineer_
+
 
