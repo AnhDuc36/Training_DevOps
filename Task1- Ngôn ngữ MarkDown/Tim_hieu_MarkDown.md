@@ -1,10 +1,10 @@
 # Tìm hiểu ngôn ngữ MarkDown #
 
 ## Mục Lục ##
-I. [Giới thiệu Markdown](##Giới-thiệu-Mardown)
-1.1 [Markdown là gì ?](###markdown-là-gì-?)
-1.2 [Tại sao nên dùng markdown ?](###tại-sao-nên-dùng-markdown-?)
-II. [Cách dùng Markdown ](##Cách-dùng-Markdown)
+- [I.Giới thiệu Markdown](##Giới-thiệu-Mardown)
+    - [1.1 Markdown là gì ?](###markdown-là-gì-?)
+    - [1.2 Tại sao nên dùng markdown ?](###tại-sao-nên-dùng-markdown-?)
+- [II.Cách dùng Markdown ](##Cách-dùng-Markdown)
 
 
 ## I . Giới thiệu Markdown ##
