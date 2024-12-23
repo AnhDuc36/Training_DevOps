@@ -25,9 +25,9 @@ nó cung cấp một cách dễ dàng để tạo ra tài liệu có nội dung 
 - Ví dụ: `# Heading 1`
 ![Heading 1](image.png)
 - Ví dụ: `## Heading 2`
-![Heading 2](image.png)
+![Heading 2](image-1.png)
 - Ví dụ: `### Heading 3`
-![Heading 3](image.png)
+![Heading 3](image-2.png)
 
 ### 2.2 Dùng cho Text ###
 
