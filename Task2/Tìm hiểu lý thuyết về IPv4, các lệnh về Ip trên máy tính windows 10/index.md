@@ -37,3 +37,8 @@ Trong đó, lớp A, B và C là những lớp chủ yếu được sử dụng 
 - **ipconfig /registerdns**: lệnh này được sử dụng để đăng ký lại DNS
 - **netsh int ip reset**: lệnh này được sử dụng để reset lại cấu hình IP
 - **netsh int ip set dns**: lệnh này được sử dụng để cấu hình lại DNS
+## Tài liệu tham khảo ##
+- [Viettelidc](https://viettelidc.com.vn/tin-tuc/ipv4-la-gi-tong-hop-kien-thuc-tu-a-z)
+- [ChatGpt , Copilot Microsoft]
+
+
