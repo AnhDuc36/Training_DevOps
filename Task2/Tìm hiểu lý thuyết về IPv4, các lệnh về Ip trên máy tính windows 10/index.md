@@ -30,15 +30,17 @@ IPv4 là cụm từ viết tắt của Internet Protocol version 4 - tức giao 
 
 Trong đó, lớp A, B và C là những lớp chủ yếu được sử dụng trong môi trường internet. Các lớp D và E được dành cho các mục đích đặc biệt và không phải là lựa chọn chính cho việc định danh thiết bị trong mạng internet.
 ## Các lệnh về ip trên máy tính Window 10/11 ##
-- **ipconfig**: lệnh này được sử dụng để hiển thị thông tin về địa chỉ IP,
-- **ipconfig /release**: lệnh này được sử dụng để giải phóng địa chỉ IP
-- **ipconfig /renew**: lệnh này được sử dụng để cấp lại địa chỉ IP
+- **ipconfig**: lệnh này được sử dụng để hiển thị thông tin về địa chỉ IP,  
+![Hình 1: ipconfig](image.png)
+- **ipconfig /release**: lệnh này được sử dụng để giải phóng địa chỉ IP  
+![Hình 2: ipconfig /release](image-1.png)
+- **ipconfig /renew**: lệnh này được sử dụng để cấp lại địa chỉ IP  
 - **ipconfig /flushdns**: lệnh này được sử dụng để xóa cache DNS
 - **ipconfig /registerdns**: lệnh này được sử dụng để đăng ký lại DNS
 - **netsh int ip reset**: lệnh này được sử dụng để reset lại cấu hình IP
 - **netsh int ip set dns**: lệnh này được sử dụng để cấu hình lại DNS
 ## Tài liệu tham khảo ##
 - [Viettelidc](https://viettelidc.com.vn/tin-tuc/ipv4-la-gi-tong-hop-kien-thuc-tu-a-z)
-- [ChatGpt , Copilot Microsoft]
+- [ChatGpt, Copilot Microsoft]
 
 
