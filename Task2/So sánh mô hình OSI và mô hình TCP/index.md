@@ -15,7 +15,7 @@ Mô hình OSI (Open Systems Interconnection) là một mô hình tham chiếu g�
 6. **Lớp 6: Layer 6 - Lớp trình bày (Layer 6 - Layer Presentation)**: Chịu trách nhiệm chuyển đổi dữ liệu từ định dạng
 thứ tự bit sang định dạng thứ tự byte
 7. **Lớp 7: Layer 7 - Lớp ứng dụng (Layer 7 - Layer Application)**: Chịu trách nhiệm cung cấp các dịch vụ ứng dụng cho người dùng  
-![Mô hình TCP/IP](image.png)
+![Mô hình OSI](image-2.png)
 ### II.Mô hình TCP/IP (Transmission Control Protocol/Internet Protocol) ###
 **Khái niệm:**
 Mô hình TCP/IP (Transmission Control Protocol/Internet Protocol) là một mô hình tham chiếu gồm
