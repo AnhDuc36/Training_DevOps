@@ -1,9 +1,9 @@
 # Tìm hiểu lý thuyết về IPv4, các lệnh về ip trên máy tính window 10/11#
 ## Mục Lục ##
--[Lý thuyết về IPv4](##Lý-thuyết-về-IPv4)
-    -[IPv4 là gì ?](###IPv4-là-gì-?)
-    -[Phân loại các địa chỉ IPv4](###Phân-loại-các-địa-chỉ-IPv4)
--[Các lệnh về ip trên máy tính Window 10/11](##Các-lệnh-về-ip-trên-máy-tính-Window-10/11)
+- [Lý thuyết về IPv4](##Lý-thuyết-về-IPv4)
+    - [IPv4 là gì ?](###IPv4-là-gì-?)
+    - [Phân loại các địa chỉ IPv4](###Phân-loại-các-địa-chỉ-IPv4)
+- [Các lệnh về ip trên máy tính Window 10/11](##Các-lệnh-về-ip-trên-máy-tính-Window-10/11)
 ## Lý thuyết về IPv4 ##
 ### IPv4 là gì ?###
 IPv4 là cụm từ viết tắt của Internet Protocol version 4 - tức giao thức Internet phiên bản 4. Đây là giao thức mạng phổ biến nhất hiện nay, có thể hiểu là một hệ thống địa chỉ số được sử dụng để định danh và liên kết mọi thiết bị kết nối vào internet. 
