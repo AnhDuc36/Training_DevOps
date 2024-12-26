@@ -14,8 +14,9 @@ Mô hình OSI (Open Systems Interconnection) là một mô hình tham chiếu g�
 5. **Lớp 5: Layer 5 - Lớp phiên (Layer 5 - Layer Session)**: Chịu trách nhiệm thiết lập và quản lý các phiên kết nối giữa các ứng dụng
 6. **Lớp 6: Layer 6 - Lớp trình bày (Layer 6 - Layer Presentation)**: Chịu trách nhiệm chuyển đổi dữ liệu từ định dạng
 thứ tự bit sang định dạng thứ tự byte
-7. **Lớp 7: Layer 7 - Lớp ứng dụng (Layer 7 - Layer Application)**: Chịu trách nhiệm cung cấp các dịch vụ ứng dụng cho người dùng
-![Mô hình TCP/IP](image.png)n Control Protocol/Internet Protocol) ###
+7. **Lớp 7: Layer 7 - Lớp ứng dụng (Layer 7 - Layer Application)**: Chịu trách nhiệm cung cấp các dịch vụ ứng dụng cho người dùng  
+![Mô hình TCP/IP](image.png)
+### II.Mô hình TCP/IP (Transmission Control Protocol/Internet Protocol) ###
 **Khái niệm:**
 Mô hình TCP/IP (Transmission Control Protocol/Internet Protocol) là một mô hình tham chiếu gồm
 ba lớp, được thiết kế để tiêu chuẩn hóa các giao thức mạng và giúp cho các hệ thống
@@ -25,7 +26,7 @@ năng khác nhau có thể giao tiếp với nhau.
 2. **Lớp 2: Lớp Mạng (Lớp 2: Internet)**: Định tuyến các gói dữ liệu từ nguồn đến đích qua các mạng khác nhau. Lớp này sử dụng địa chỉ IP để xác định địa chỉ của các thiết bị mạng.
 3. **Lớp 3: Lớp Giao Vận (Lớp 3: Transport)**: Cung cấp các dịch vụ truyền dữ liệu đáng tin cậy giữa các ứng dụng. Lớp này đảm bảo rằng dữ liệu được truyền đến đúng đích và đúng thứ tự.
 4. **Lớp 4: Lớp Ứng Dụng (Lớp 4: Application)**: Cung cấp các dịch vụ ứng dụng cho người dùng, bao gồm các giao
-thức như HTTP, FTP, SMTP, v.v.
+thức như HTTP, FTP, SMTP, v.v.  
 ![Mô hình TCP/IP](image-1.png)
 ### III. So sánh mô hình OSI và mô hình TCP/IP ###
 **Khác biệt:**
