@@ -1,7 +1,7 @@
 # So sánh mô hình OSI và mô hình TCP/IP #
 ## Mục Lục ##
--[I.Mô hình OSI (Open System Interconnection)](###I.Mô-hình-OSI-(Open-System-Interconnection))
--[II.Mô hình TCP/IP](###II.Mô-hình-TCP/IP(Transmission-Control-Protocol/Internet-Protocol))
+-[I.Mô hình OSI (Open System Interconnection)](###I.Mô-hình-OSI)
+-[II.Mô hình TCP/IP](###II.Mô-hình-TCP/IP)
 -[III.So sánh giữa mô hình OSI và mô hình TCP/IP](###III.So-sanh-giữa-mô-hình-OSI-và-mô-hình-TCP/IP)
 ### I.Mô hình OSI (Open System Interconnection) ###
 **Khái niệm:**
@@ -36,7 +36,7 @@ hình TCP/IP tập trung vào việc cung cấp các dịch vụ ứng dụng ch
 - Mô hình OSI có các lớp riêng biệt cho mỗi chức năng, trong khi mô hình TCP
 /IP có các lớp chồng lên nhau
 ## Tài liệu tham khảo ##
-[Totolink](https://www.totolink.vn/article/136-mo-hinh-osi-la-gi-chuc-nang-cua-cac-tang-giao-thuc-trong-mo-hinh-osi.html)
-[Totolink](https://www.totolink.vn/article/149-mo-hinh-tcp-ip-la-gi-chuc-nang-cua-cac-tang-trong-mo-hinh-tcp-ip.html)
-[Fptshop](https://fptshop.com.vn/tin-tuc/danh-gia/giao-thuc-tcp-ip-la-gi-171251)
-[Suncloud](https://suncloud.vn/so-sanh-mo-hinh-osi-va-tcp-ip)
+-[Totolink](https://www.totolink.vn/article/136-mo-hinh-osi-la-gi-chuc-nang-cua-cac-tang-giao-thuc-trong-mo-hinh-osi.html)
+-[Totolink](https://www.totolink.vn/article/149-mo-hinh-tcp-ip-la-gi-chuc-nang-cua-cac-tang-trong-mo-hinh-tcp-ip.html)
+-[Fptshop](https://fptshop.com.vn/tin-tuc/danh-gia/giao-thuc-tcp-ip-la-gi-171251)
+-[Suncloud](https://suncloud.vn/so-sanh-mo-hinh-osi-va-tcp-ip)
