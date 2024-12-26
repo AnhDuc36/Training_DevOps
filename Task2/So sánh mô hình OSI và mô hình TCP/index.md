@@ -29,12 +29,22 @@ năng khác nhau có thể giao tiếp với nhau.
 thức như HTTP, FTP, SMTP, v.v.  
 ![Mô hình TCP/IP](image-1.png)
 ### III. So sánh mô hình OSI và mô hình TCP/IP ###
+Hiện nay, TCP/IP và OSI là hai giao thức mạng truyền thông tin được sử dụng phổ biến nhất. Tuy nhiên sự khác biệt giữa hai giao thức đó là mô hình OSI chỉ là mô hình khái niệm, nó chỉ sử dụng để tham chiếu mà không được sử dụng trong thực tế. Mặt khác, TCP/IP được sử dụng rộng rãi giúp thiết lập các liên kết và tương tác trong môi trường mạng hiện nay.
+Hệ thống mạng Internet được tạo ra nhờ vào các tiêu chuẩn mà giao thức TCP/IP đặt ra. Mô hình OSI sẽ cung cấp các hướng dẫn về cách thức giao tiếp cần phải thực hiện.  
+![Mô hình tham chiếu OSI và TCP/IP](image-3.png)  
+**Giống nhau:**
+Để so sánh 2 mô hình OSI và TCP IP ta cần đánh giá điểm tương đồng của hai mô hình như:
+- Cả mô hình OSI và TCP/IP đều có cấu trúc các giao thức xếp chồng lên nhau theo các lớp.
+- Cả hai đều được coi là mô hình logic.
+- Hai mô hình phân chia các giao tiếp mạng thành các lớp rõ ràng.
+- Cung cấp các tiêu chuẩn giúp cho nhà sản xuất tạo ra thiết bị. Hệ thống mạng có thể hoạt động, giao tiếp với các thiết bị, hệ thống được sản xuất từ nhà cung cấp khác.
 **Khác biệt:**
-- Mô hình OSI có 7 lớp, trong khi mô hình TCP/IP có 4 lớp
-- Mô hình OSI tập trung vào việc tiêu chuẩn hóa các giao thức mạng, trong khi mô
-hình TCP/IP tập trung vào việc cung cấp các dịch vụ ứng dụng cho người dùng
-- Mô hình OSI có các lớp riêng biệt cho mỗi chức năng, trong khi mô hình TCP
-/IP có các lớp chồng lên nhau
+- TCP/IP chỉ sử dụng tầng ứng dụng (Application) để xác định chức năng của các tầng trên. Trong khi đó, OSI sử dụng đến 3 tầng (Application, Presentation, Session).
+- OSI cần sử dụng 2 tầng Physical và Datalink để xác định các chức năng của tầng dưới cùng, TCP/IP chỉ sử dụng tầng Network để thực hiện điều đó.
+- Lớp Network được mô hình OSI sử dụng để xác định các tiêu chuẩn và giao thức định tuyến. Chức năng này được quản lý bởi tầng Internet trong TCP/IP.
+- Mô hình TCP/IP là một tiêu chuẩn giao thức định hướng. Còn OSI là một mô hình chung dựa trên chức năng của mỗi lớp.
+- Trong TCP/IP, các giao thức được phát triển trước mô hình. Còn đối với mô hình OSI thì ngược lại.
+- TCP/IP giúp thiết lập kết nối giữa các thiết bị sử dụng với nhau. OSI giúp chuẩn hóa router, switch, bo mạch chủ và các phần cứng khác.
 ## Tài liệu tham khảo ##
 - [Totolink](https://www.totolink.vn/article/136-mo-hinh-osi-la-gi-chuc-nang-cua-cac-tang-giao-thuc-trong-mo-hinh-osi.html)
 - [Totolink](https://www.totolink.vn/article/149-mo-hinh-tcp-ip-la-gi-chuc-nang-cua-cac-tang-trong-mo-hinh-tcp-ip.html)
