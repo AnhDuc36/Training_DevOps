@@ -57,3 +57,6 @@ Cho biết địa chỉ nào sau đây có thể dùng cho host:
 - Địa chỉ 127.34.25.189 là địa chỉ loopback, nên không thuộc
 host.
 - Địa chỉ 224.156.217.73 là địa chỉ multicast, nên không thuộc host
+## Tài liệu tham khảo ## 
+- [Vnpro](https://vnpro.vn/thu-vien/chuong-1-dia-chi-ipv4-chia-subnet-vlsm-summary-4108.html)
+- [Wikipedia](https://vi.wikipedia.org/wiki/Địa_chỉ_IP)

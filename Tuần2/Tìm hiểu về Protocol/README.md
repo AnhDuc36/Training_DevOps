@@ -38,3 +38,6 @@ Giả sử bạn truy cập vào một website (https://example.com):
 - Network Layer: Địa chỉ IP của server được sử dụng để định tuyến gói tin.  
 - Link Layer: Gói tin được truyền qua Ethernet tới router, tiếp tục hành trình qua các mạng.  
 Mỗi tầng và giao thức phối hợp để dữ liệu đến đúng đích và đúng định dạng.
+## Tài liệu tham khảo ##
+- [1 .OSI Model](https://cloud.z.com/vn/news/protocol/)
+- [2 .Chatgpt](https://chatgpt.com/)
