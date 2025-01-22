@@ -43,7 +43,7 @@ Chọn Ngôn ngữ và nhấn Enter
 - Cập nhật bản cài đặt mới  
 - Tiếp tục mà không cần cập nhật  
 - Quay lại  
-![alt text](image-17.png)   
+![alt text](image-17.png)   git
 Tôi sẽ chọn **Tiếp tục mà không cần cập nhật**   
 ![alt text](image-18.png)  
 Ở màn hình này sẽ cấu hình bàn phím, tôi sẽ để mặc định bàn phím là Anh Mỹ và nhấn **Done**.  
